@@ -2,6 +2,7 @@ name = "sub-worker"
 main = "_worker.js"
 compatibility_date = "2025-07-23"
 keep_vars = true
+name = 'cf-workers-sub'
 
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
